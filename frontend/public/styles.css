@@ -1,0 +1,47 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: lavender;
+}
+.navbar {
+  padding-left: 20px;
+}
+#nav-a {
+  padding-left: 20px;
+}
+#nav-a:hover {
+  color:  rgb(6, 224, 228);
+  cursor: pointer;
+}
+
+
+.home {
+  text-align: center;
+}
+.homeh1 {
+  font-size: 50px;
+  color: darkgoldenrod;
+  text-align: center;
+}
+.homeimg {
+  width: 400px;
+}
+.homep {
+  font-size: 30px;
+  color: darkgoldenrod;
+}
+#card {
+  padding: 40px;
+
+}
+#head {
+  background-color: rgb(119, 243, 245);
+  text-align: center;
+  border-radius: 30px;
+
+}
+
+.error {
+  color: red;
+}
+
